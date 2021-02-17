@@ -1,2 +1,2 @@
-# Razvan
-Simple calendar in python
+# Simple calendar made in python | Razvan26
+
